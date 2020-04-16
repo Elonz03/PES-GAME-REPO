@@ -1,1 +1,5 @@
+// https://www.youtube.com/watch?time_continue=21&v=YrRt2V1ApKE&feature=emb_logo
 
+void setup(){
+  size(500,500) //set this to the size we want for our GUI
+}
